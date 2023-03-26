@@ -1,4 +1,4 @@
-# Machine Learning 101 with Scikit-learn and StatsModels
+# Machine Learning practice with Scikit-learn and StatsModels
 
 ## Content
 
